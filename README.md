@@ -20,9 +20,11 @@ Senior Staff Site Reliability Engineer with +25 years of experience specializing
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asancheza&show_icons=true&theme=radical&cache_seconds=1800)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asancheza&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asancheza&layout=compact&theme=radical&cache_seconds=1800)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=asancheza&theme=radical&no-frame=true&row=1&column=7)
+
+![Top Languages](https://github-readme-stats.vercel.a
 
 ## 🏆 GitHub Trophies
 
