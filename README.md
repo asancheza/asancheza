@@ -24,7 +24,7 @@ Senior Staff Site Reliability Engineer with +25 years of experience specializing
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=asancheza&theme=radical&no-frame=true&row=1&column=7)
 
-![Top Languages](https://github-readme-stats.vercel.a
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asancheza&layout=compact&theme=radical&langs_count=8)
 
 ## 🏆 GitHub Trophies
 
